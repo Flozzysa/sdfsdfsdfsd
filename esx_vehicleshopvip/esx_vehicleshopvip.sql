@@ -20,18 +20,7 @@ REPLACE INTO `vehicle_categories2` (`name`, `label`) VALUES
 ('helicopteros', 'Helicopteros'),
 ('no blindados', 'No blindados'),
 ('tanques', 'Tanques'),
-('chevrolet', 'Chevrolet'),
-('ferrari', 'Ferrari'),
-('lambo', 'Lamborghini'),
-('mclaren', 'McLaren'),
-('bugatti', 'Bugatti'),
-('mercedes', 'Mercedes Benz'),
-('ford', 'Ford'),
-('koenigsegg', 'Koenigsegg'),
-('motos', 'Motos'),
-('wmotors', 'WMotors'),
-('nissan', 'Nissan'),
-('vip', 'Vip');
+
 REPLACE INTO `vehicles2` (name, model, price, category) VALUES
 ('Tanque', 'abrams', 50, 'tanques'),
 ('Tanque2', 'abrams2', 50, 'tanques'),
